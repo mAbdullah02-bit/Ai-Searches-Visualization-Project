@@ -19,7 +19,7 @@ This repository contains Python implementations of  search algorithms with Tkint
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/<your-username>/search-algorithms-visualization.git
+   https://github.com/mAbdullah02-bit/Ai-Searches-Visualization-Project.git
    ```
 2. Run File:
    ```
