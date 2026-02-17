@@ -25,7 +25,7 @@ class AIPathfinder:
         # State and Static Obstacles
         self.staticObstacles = {(2, 2), (2, 3), (2, 4), (5, 7), (6, 7), (7, 7), (4, 4), (4, 5)} 
         self.startPos = (1, 1)
-        self.targetPos = (8, 8)
+        self.targetPos = (2, 8)
         self.nodeStatus = {} # Tracks yellow nodes and expansion order
         self.exploredCount = 0
         self.isRunning = False
